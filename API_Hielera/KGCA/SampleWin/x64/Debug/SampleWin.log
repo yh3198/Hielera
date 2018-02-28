@@ -1,0 +1,13 @@
+﻿  Sample.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  BSceneMgr.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  BScene.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  BResultScene.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  BLobbyScene.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  BGameScene.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\samplewin\bscene.h(2): fatal error C1083: 포함 파일을 열 수 없습니다. 'BCore.h': No such file or directory
+  코드를 생성하고 있습니다...
