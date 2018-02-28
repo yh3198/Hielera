@@ -1,0 +1,29 @@
+﻿  BWindow.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BTimer.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BSpriteMgr.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BSprite.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BSound.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BObjectMgr.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BObject.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BNoteMgr.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BNote.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BInput.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BCore.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BCollision.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BBitmapMgr.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  BBitmap.cpp
+c:\users\kgca331\desktop\00_kgca32_lyh_hierera\kgca\bcorelib\bstd.h(7): fatal error C1083: 포함 파일을 열 수 없습니다. 'fmod.hpp': No such file or directory
+  코드를 생성하고 있습니다...
